@@ -1,0 +1,1 @@
+Agricultural land (% of land area)

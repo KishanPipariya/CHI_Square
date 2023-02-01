@@ -1,0 +1,7 @@
+[[Poverty_UN]]
+[[Hunger_UN]]
+[[Health_UN]]
+[[Education_UN]]
+[[Gender_equality_UN]]
+[[Water_UN]]
+[[Energy_UN]]

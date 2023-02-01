@@ -1,0 +1,1 @@
+Adjusted savings: natural resources depletion (% of GNI)

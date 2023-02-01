@@ -1,0 +1,1 @@
+Adjusted savings: net forest depletion (% of GNI)

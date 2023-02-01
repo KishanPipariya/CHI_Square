@@ -1,0 +1,1 @@
+Agriculture, forestry, and fishing, value added (% of GDP)

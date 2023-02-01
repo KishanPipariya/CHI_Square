@@ -1,0 +1,1 @@
+Access to clean fuels and technologies for cooking (% of population)
